@@ -1,0 +1,3 @@
+There can be two types of notations:
+1.Scientific notations
+2.E Scientific notations
