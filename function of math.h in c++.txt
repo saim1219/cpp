@@ -1,0 +1,9 @@
+abs                                           //to postivate the value
+cos                                           //to find the cosine
+exp                                           //to return the exponenetial form of given value
+fmod                                          //to return the modulus but in float value
+log                                           //to return the logrithm of given value
+log10                                         //to retrun the logrithm of base 10  value
+sin                                           //to find the sine
+sqrt                                          //to evaluate the square root of given value
+tan                                           //to find the tangent
