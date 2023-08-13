@@ -1,0 +1,2 @@
+typeid(x). name() returns the data type of x, for example, it returns 'i' for integers, 'd' for doubles, 'f' for float, 'c' for char , 'Pi' for the pointer to integer, 'Pd' for the pointer to double, 'Pf' for the pointer to float, 'Pc' for the pointer to char,'PPi' for the pointer to pointer to integer.22-Mar-2023
+
